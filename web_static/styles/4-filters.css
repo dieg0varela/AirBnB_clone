@@ -20,3 +20,7 @@
     margin-left: auto;
     margin-right: 30px;
 }
+
+.filters button:hover{
+    opacity: 0.9;
+}
