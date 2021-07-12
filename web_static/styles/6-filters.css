@@ -32,7 +32,6 @@
     margin: auto;
     margin-right: 0px;
     border-right: 1px solid #DDDDDD;
-    vertical-align: auto;
 }
 
 .filters .amenities{
@@ -80,7 +79,6 @@
 
 .filters .popover li{
     font-size: 16px;
-    padding-top: 3;
 }
 
 .filters .amenities .popover{
